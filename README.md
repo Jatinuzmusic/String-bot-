@@ -3,8 +3,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXSTRINGBOT&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXSTRINGBOT/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+[![GIF](https://github.com/Jatinuzmusic/String-bot-/blob/main/Jatinuzmusic.gif)](https://github.com/Jatinuzmusic/)
+   [![𝐌𝐑.𝙅𝙖𝙩𝙞𝙣 ](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "𝙅𝙖𝙩𝙞𝙣 𝙏𝙀𝘼𝙈")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
                   
 
 
@@ -17,10 +17,10 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXSTRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jatinuzmusic/String-bot-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
   
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JATINTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
 
 
